@@ -30,7 +30,7 @@ Please check if the PR fulfills these requirements before advancing to a review:
 - [ ] Design Documents - if needed, change general architecture diagram https://drive.google.com/file/d/1FTSkLNC0P1ajtrvyWb0SgkBIkHbjGPRs/view?usp=sharing
 - [ ] Documentation - add a readme file to the project, describe it in general and provide test instructions
 - [ ] Approval from Product (for customer facing changes)
-- [ ] CloudWatch metrics and alarms 
+- [ ] CloudWatch metrics and alarms
 - [ ] Create a post-release Asana monitoring task (using QuickSight/ CloudWatch/ Mixpanel)
 - [ ] Did you test it End-to-end?
 - [ ] Release notes to the relevant Slack channel
